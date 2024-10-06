@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Kennedy</p>
+<p align="left">Meu nome é Kennedy</p>
 
 ###
 
